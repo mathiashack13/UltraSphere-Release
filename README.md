@@ -6,9 +6,11 @@ Questions Answers
 What Is This CFW
 Is The Easy Install Version Of The CFW Atmosphere and all required files to :
 - Load Switch Games LayeredFS + GameRedirectior Simplify and traduced in FR with pynx
-- Backup and Restore Saves Edizon/Checkpoint
+- Backup and Restore Saves Checkpoint
 - Add Homebrew HB Appstore For NX/Switch
 - Dump Games (The Games must be encrypted and have to be decrypted by a pc an future Maj Add The Capacity to decrypt directely from the switch) Wain Game Dumper to XCI
+- play music and view pictures and movies + Edit FileSystem : NX-SHELL
+
 and others functionality arrived in the future
 
 How to Install And Update the CFW
