@@ -15,3 +15,10 @@ How to Install And Update the CFW
 Nothing Of Simple
 Drag and Drop The Files Of The folder SD ROOT in Archive Zip To Your Micro Sd Card
 If you want to update an popup who say to replace the files choose replace and the CFW was updated
+
+DOWNLOAD
+
+ADMIN INSTALLER : https://drive.google.com/file/d/1Ns4NxZWRYLTUD9Gbhc_c8aPpVaEv8J3c/view?usp=sharing
+
+NON ADMIN INSTALLER : https://drive.google.com/file/d/1Ze2iWxPIgR5R0mNG0vMLSwTkPpmnm83p/view?usp=sharing
+
