@@ -20,7 +20,4 @@ If you want to update an popup who say to replace the files choose replace and t
 
 DOWNLOAD
 
-ADMIN INSTALLER : https://drive.google.com/file/d/1Ns4NxZWRYLTUD9Gbhc_c8aPpVaEv8J3c/view?usp=sharing
-
-NON ADMIN INSTALLER : https://drive.google.com/file/d/1Ze2iWxPIgR5R0mNG0vMLSwTkPpmnm83p/view?usp=sharing
-
+Fix In Course
